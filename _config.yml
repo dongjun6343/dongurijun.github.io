@@ -21,7 +21,7 @@ title_separator          : "안녕하세요 :)"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DongJun-Park"
 description              : "안녕하세요 :) 박동준입니다."
-url                      : "https://dongurijun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dongjun6343.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -272,7 +272,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values: "안녕하세요~~~~~"
+    values:
       layout: single
       author_profile: true
       read_time: true
