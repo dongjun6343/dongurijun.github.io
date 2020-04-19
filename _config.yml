@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "동구리준"
+title                    : "개발자 동구리준"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DongJun-Park"
