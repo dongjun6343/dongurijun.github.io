@@ -272,7 +272,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+    values: "안녕하세요~~~~~"
       layout: single
       author_profile: true
       read_time: true
